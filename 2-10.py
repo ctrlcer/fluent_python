@@ -1,3 +1,3 @@
 myslice = slice(5)
-arr = range(10)
+arr = list(range(10))
 print(arr[myslice])
